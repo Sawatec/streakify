@@ -1,0 +1,50 @@
+// Erstellt bei: Mahdi Amouri (940504), Datum: 15.11.2024
+
+// Rufe alle User ab. Zu Beginn sollten keine User in der Datenbank sein. 
+GET http://localhost:5000/api/users
+
+// Lege ersten User an, der Administrator ist
+###
+POST http://localhost:5000/api/users
+Content-Type: application/json
+
+{
+    "email": "mahdiamouri731@gmail.com",
+    "password": "123",
+    "isAdmin": true
+}
+
+// Rufe den User mit Email ab. 
+###
+GET http://localhost:5000/api/users/mahdiamouri731@gmail.com
+
+
+// Lege zweiten User an. Prüfe Email sowie den Namen, ob die Angaben korrekt sind.
+###
+
+POST http://localhost:5000/api/users
+Content-Type: application/json
+
+{
+    "email": "samir@gmail.com",
+    "password": "asdf",
+    "isAdmin": false
+}
+
+// Ändere beim zweiten User den Passwort. Zur Selektion des Users verwende die Email.
+###
+PUT http://localhost:5000/api/users/samir@gmail.com
+Content-Type: application/json
+
+{
+    "password":"1343",
+    "isAdmin": true
+}
+
+// Rufe alle User ab. Es sollten 2 User zurückgegeben werden.
+###
+GET http://localhost:5000/api/users
+
+// Lösche den User mit der Email Samir
+###
+DELETE http://localhost:5000/api/users/samir@gmail.com

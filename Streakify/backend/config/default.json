@@ -1,0 +1,8 @@
+{
+  "session": {
+    "timeout": 36000,
+    "secret": "your-session-secret",
+    "tokenKey": "your-secret-key"
+  },
+  "db": "mongodb+srv://mahdiamouri:cZZ25jqcqjOTQAwd@cluster0.q6oh1.mongodb.net/Habitox"
+}

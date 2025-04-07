@@ -1,0 +1,9 @@
+export const darkBackgroundGreen = "#0B3D3D";       //darkBackgroundGreen
+export const mediumGreen = '#145555';               //mediumGreen
+export const highlightGreen = '#1C7C7C';            //highlightGreen
+export const brightAccentGreen = '#2FA9A9';         //brightAccentGreen
+export const primaryOrange = '#FF8800';             //accentColor
+export const darkOrange = '#CC7000';                //darkOrange
+export const brightOrange = '#FFB347';              //brightOrange
+export const darkGrey = "#A0A0A0";                  //darkGrey
+export const brightGrey = "#E0E0E0";                //brightGrey

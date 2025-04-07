@@ -1,0 +1,6 @@
+{
+    "session": {
+      "timeout": 3600,
+      "tokenKey": "your-secret-key"
+    }
+  }
