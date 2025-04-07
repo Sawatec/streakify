@@ -1,4 +1,5 @@
 # Streakify 
+![431146755-83aa783e-a01a-4ff4-af04-da8075d8d7d6](https://github.com/user-attachments/assets/aed02bd9-8107-49e3-ac5f-8d95a0140c94)
 
 ## Projektbeschreibung
 **Streakify** ist eine Webanwendung, die Nutzern dabei hilft, verschiedene Gewohnheiten (Habits) zu erstellen und zu verfolgen, um ihre persönlichen Ziele zu erreichen. Nutzer können Habits aus verschiedenen Lebensbereichen wie Ernährung, Sport, Bildung oder Entspannung auswählen und sie nach Kategorien gruppieren. Durch das Durchhalten und Verfolgen von Habits sammeln Nutzer Erfahrungspunkte (XP), die ihre Fortschritte anzeigen.
