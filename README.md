@@ -43,9 +43,9 @@ Beiträge zu diesem Projekt sind willkommen! So kannst du mitwirken:
 5. Stelle einen Pull Request
 
 ## Team
-- **Claudius Naß (911355)** – Frontend-Entwicklung
-- **Samir Wadi(868558)** – Backend-Entwicklung
-- **Mahdi Amouri (940504)** – UX/UI-Designer
-- **Jasmin Kreho (932345)** – Datenbank-Administrator (MongoDB)
-- **Emre Gül (936221)** – QA-Engineer
-- **Muhammed Aslan (938501)** – Projektmanager(Scrum Master)/ Fullstack
+- **Claudius Naß (911355)** 
+- **Samir Wadi(868558)** 
+- **Mahdi Amouri (940504)** 
+- **Jasmin Kreho (932345)**
+- **Emre Gül (936221)** 
+- **Muhammed Aslan (938501)** 
